@@ -92,6 +92,7 @@ body {
 }
 
 .content .question-record .question {
+    font-size: 16px;
     font-weight: 400;
     color: var(--very-dark-desaturated-blue);
     transition: color .2s;
